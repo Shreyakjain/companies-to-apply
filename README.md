@@ -530,6 +530,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Prodapt](https://www.prodapt.com/en/careers/)
 1.   [Publicis Sapient](https://careers.publicissapient.com/)
 1.   [PubMatic](https://pubmatic.com/careers/home/)
+2.   Prophecy.IO
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
