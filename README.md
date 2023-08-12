@@ -270,6 +270,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
 1.   [Dunzo](https://www.dunzo.com/careers#jobs) 
 1.   [DuPont](https://careers.dupont.com/us/en)    
+1.   DevRev
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
